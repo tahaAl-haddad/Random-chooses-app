@@ -1,4 +1,5 @@
-# flutter_application_6
+# Random choices app
+
 
 A new Flutter project.
 
